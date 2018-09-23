@@ -8,6 +8,7 @@ Final goal: remove object on-click.
 
 ![cat_collage](cat_collage.jpg)
 ![tennis_collage](tennis_collage.jpg)
+![bicycle_collage](bicycle_collage.jpg)
 
 ## Pipeline
 
